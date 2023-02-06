@@ -1,0 +1,12 @@
+F:\Dotnet\SMS\BusinessObjectLayer\bin\Debug\net7.0\BusinessObjectLayer.deps.json
+F:\Dotnet\SMS\BusinessObjectLayer\bin\Debug\net7.0\BusinessObjectLayer.dll
+F:\Dotnet\SMS\BusinessObjectLayer\bin\Debug\net7.0\BusinessObjectLayer.pdb
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.csproj.AssemblyReference.cache
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.AssemblyInfo.cs
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.dll
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\refint\BusinessObjectLayer.dll
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\BusinessObjectLayer.pdb
+F:\Dotnet\SMS\BusinessObjectLayer\obj\Debug\net7.0\ref\BusinessObjectLayer.dll

@@ -1,0 +1,17 @@
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfo.cs
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.deps.json
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.dll
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.pdb
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\BusinessObjectLayer.dll
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\DaoLayer.dll
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\BusinessObjectLayer.pdb
+F:\Dotnet\SMS\BusinessLogicLayer\bin\Debug\net7.0\DaoLayer.pdb
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CopyComplete
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.dll
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\refint\BusinessLogicLayer.dll
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.pdb
+F:\Dotnet\SMS\BusinessLogicLayer\obj\Debug\net7.0\ref\BusinessLogicLayer.dll

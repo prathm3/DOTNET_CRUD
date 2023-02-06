@@ -1,0 +1,15 @@
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.csproj.AssemblyReference.cache
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.AssemblyInfoInputs.cache
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.AssemblyInfo.cs
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.csproj.CoreCompileInputs.cache
+F:\Dotnet\SMS\DaoLayer\bin\Debug\net7.0\DaoLayer.deps.json
+F:\Dotnet\SMS\DaoLayer\bin\Debug\net7.0\DaoLayer.dll
+F:\Dotnet\SMS\DaoLayer\bin\Debug\net7.0\DaoLayer.pdb
+F:\Dotnet\SMS\DaoLayer\bin\Debug\net7.0\BusinessObjectLayer.dll
+F:\Dotnet\SMS\DaoLayer\bin\Debug\net7.0\BusinessObjectLayer.pdb
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.csproj.CopyComplete
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.dll
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\refint\DaoLayer.dll
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\DaoLayer.pdb
+F:\Dotnet\SMS\DaoLayer\obj\Debug\net7.0\ref\DaoLayer.dll
